@@ -1,9 +1,10 @@
-This program prints a hollow diamond star pattern.
+ Hollow Diamond Pattern 
 
-n = 5 sets the size of the diamond.
+This program prints a hollow diamond star pattern 
 
-The first loop prints the top half of the diamond.
-The second loop prints the bottom half.
+n = 5 defines the height of the upper half of the diamond.
+ The first loop prints the top half of the diamond.
+ The second loop prints the bottom half.
+ Spaces are added before stars to center the shape.
+ Only the first and last stars of each row are printed, making the diamond hollow inside.
 
-Spaces are added before the stars to keep the shape centered.
-Only the first and last stars of each row are printed, so the inside of the diamond stays empty.
